@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Sunrise",
+    "src": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop",
+    "alt": "Snowy mountain peak at sunrise with orange and pink sky",
+    "tag": "nature",
+    "size": "large"
+  },
+  {
+    "id": 2,
+    "title": "Ocean Waves",
+    "src": "https://images.unsplash.com/photo-1505142468610-359e7d316be0?w=400&h=300&fit=crop",
+    "alt": "Blue ocean waves crashing on rocky shore",
+    "tag": "nature",
+    "size": "medium"
+  },
+  {
+    "id": 3,
+    "title": "City Lights",
+    "src": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=400&h=300&fit=crop",
+    "alt": "Night city skyline with illuminated buildings",
+    "tag": "urban",
+    "size": "large"
+  },
+  {
+    "id": 4,
+    "title": "Forest Path",
+    "src": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=300&fit=crop",
+    "alt": "Sunlit path through dense green forest",
+    "tag": "nature",
+    "size": "small"
+  },
+  {
+    "id": 5,
+    "title": "Coffee Art",
+    "src": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=300&fit=crop",
+    "alt": "Latte art in white ceramic cup",
+    "tag": "food",
+    "size": "small"
+  },
+  {
+    "id": 6,
+    "title": "Modern Building",
+    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400&h=300&fit=crop",
+    "alt": "Modern glass skyscraper reflecting clouds",
+    "tag": "urban",
+    "size": "medium"
+  },
+  {
+    "id": 7,
+    "title": "Desert Dunes",
+    "src": "https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=400&h=300&fit=crop",
+    "alt": "Golden sand dunes under clear blue sky",
+    "tag": "nature",
+    "size": "large"
+  },
+  {
+    "id": 8,
+    "title": "Street Food",
+    "src": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=300&fit=crop",
+    "alt": "Colorful street food platter on wooden table",
+    "tag": "food",
+    "size": "medium"
+  }
+]
